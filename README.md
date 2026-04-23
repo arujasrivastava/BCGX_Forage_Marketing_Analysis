@@ -61,8 +61,7 @@ A marketing team running concurrent campaigns across multiple channels needed an
 
 Three interactive Power BI dashboards provide detailed insights:
 
-
-![Main Dashboard](https://raw.githubusercontent.com/arujasrivastava/marketing-campaign-analysis/main/BCGX_Main_Dashboard.png)
+![Main Dashboard](https://raw.githubusercontent.com/arujasrivastava/BCGX_Forage_Marketing_Analysis/main/BCGX_Main_Dashboard.png)
 
 ### **1. Main Dashboard** 
 Executive overview with KPI cards showing:
@@ -72,7 +71,7 @@ Executive overview with KPI cards showing:
 - Total Revenue: $14.7K
 - Campaign and channel performance breakdowns
 
-![Channel Analysis Dashboard](https://raw.githubusercontent.com/arujasrivastava/marketing-campaign-analysis/main/BCGX_Channel_Analysis.png)
+![Channel Analysis](https://raw.githubusercontent.com/arujasrivastava/BCGX_Forage_Marketing_Analysis/main/BCGX_Channel_Analysis.png)
 
 ### **2. Detailed Channel Analysis**
 Deep-dive charts including:
@@ -80,7 +79,7 @@ Deep-dive charts including:
 - Sales by channel comparison
 - Sales vs. time spent correlation
 
-![Key Insights Dashboard](https://raw.githubusercontent.com/arujasrivastava/marketing-campaign-analysis/main/BCGX_Insights.png)
+![Insights Page](https://raw.githubusercontent.com/arujasrivastava/BCGX_Forage_Marketing_Analysis/main/BCGX_Insights.png)
 
 ### **3. Key Insights Page** 
 Summary of all strategic findings with context and recommendations.
